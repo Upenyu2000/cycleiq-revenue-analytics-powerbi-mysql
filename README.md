@@ -41,12 +41,16 @@ To mitigate demand elasticity risks, the repository includes specifications for 
 
 ## 📁 Repository Structure
 ```text
-├── database/
-│   ├── cycleiq_schema.sql         # Database schema definition
-│   └── revenue_queries.sql        # Advanced SQL queries for cohort analysis
 ├── dashboard/
 │   └── cycleiq_analytics.pbix     # Packaged Power BI dashboard file
+│   └── CycleIQ_bi.pdf             # Packaged Power BI dashboard pdf
+├── database/
+│   └── revenue_queries.sql        # Advanced SQL queries for cohort analysis
+├── dataset/
+│   ├── CycleIQ_Data_Dictionary.pdf    # Technical data schema definition and variable dictionary mapping
+│   ├── cycleiq_operating_costs.csv    # Financial reference table (Year, Price, and COGS variables)
+│   ├── cycleiq_rental_data_2021.csv   # Hourly transactional rider checkouts for Fiscal Year 2021 (yr = 0)
+│   └── cycleiq_rental_data_2022.csv   # Hourly transactional rider checkouts for Fiscal Year 2022 (yr = 1)
 ├── reports/
-│   ├── pricing_report.html        # Clean HTML source file for documentation
 │   └── Executive_Pricing_Report.pdf # Final industry-standard PDF deliverable
 └── README.md                      # Project documentation
