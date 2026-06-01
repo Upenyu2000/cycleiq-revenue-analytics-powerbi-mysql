@@ -43,7 +43,7 @@ To mitigate demand elasticity risks, the repository includes specifications for 
 ```text
 ├── dashboard/
 │   └── cycleiq_analytics.pbix     # Packaged Power BI dashboard file
-│   └── CycleIQ_bi.pdf             # Packaged Power BI dashboard pdf
+│   └── CycleIQ_bi.pdf             # Exported static Power BI dashboard report views
 ├── database/
 │   └── revenue_queries.sql        # Advanced SQL queries for cohort analysis
 ├── dataset/
