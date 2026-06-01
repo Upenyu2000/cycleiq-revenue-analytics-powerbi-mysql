@@ -28,14 +28,14 @@ The interactive Power BI dashboard monitors historical data across key operation
 Based on the extracted database metrics, an executive-level strategic report was developed detailing a **10% to 15% conservative price increase**. 
 
 ### Scenario Modeling:
-*   **Baseline Control:** Base rate anchored at £4.99[cite: 3].
-*   **Conservative Model A (+10%):** Adjusted rate to £5.49, optimized for low churn risk and steady revenue stabilization[cite: 3].
-*   **Conservative Model B (+15%):** Adjusted rate to £5.74, maximizing short-term yield under careful monitoring[cite: 3].
+*   **Baseline Control:** Base rate anchored at £4.99.
+*   **Conservative Model A (+10%):** Adjusted rate to £5.49, optimized for low churn risk and steady revenue stabilization.
+*   **Conservative Model B (+15%):** Adjusted rate to £5.74, maximizing short-term yield under careful monitoring.
 
 ### Governance Plan:
 To mitigate demand elasticity risks, the repository includes specifications for a continuous Power BI monitoring framework tracking:
-1. **Price Elasticity Scatter Plots** for multivariate testing[cite: 3].
-2. **Cohort Churn Matrices** to monitor casual vs. registered drop-offs day-over-day[cite: 3].
+1. **Price Elasticity Scatter Plots** for multivariate testing.
+2. **Cohort Churn Matrices** to monitor casual vs. registered drop-offs day-over-day.
 
 ---
 
