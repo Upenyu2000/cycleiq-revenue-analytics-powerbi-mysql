@@ -10,7 +10,7 @@ The core objective was to analyze historical rider performance to design a segme
 ## 🛠️ Tech Stack & Tools
 *   **Database Management:** MySQL (Data extraction, transformation, aggregation, and cohort segmentation)
 *   **Business Intelligence:** Power BI Desktop (Data modeling, DAX measures, interactive dashboard development)
-*   **Reporting:** Clean HTML/CSS to PDF compilation for executive distribution
+*   **Reporting:** Clean PDF compilation for executive distribution
 
 ---
 
